@@ -1,0 +1,25 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+img {
+    width: 200px;
+}
+
+mark {
+    background-color: purple;
+}

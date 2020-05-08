@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+#um {
+    margin: 100px;
+}
+
+#dois {
+    margin: 20px 300px;
+}
+
+#tres {
+    margin: 30px 100px 250px;
+}
+
+#quatro {
+    margin: 100px 10px 400px 550px;
+}
+
+#cinco {
+    margin-top: 50px;
+}
+
+#seis {
+    margin-right: 2000px;
+}
+
+#sete {
+    margin-bottom: 80px;
+}
+
+#oito {
+    margin-left: 800px;
+}
+
+#nove {
+    margin: auto;
+}

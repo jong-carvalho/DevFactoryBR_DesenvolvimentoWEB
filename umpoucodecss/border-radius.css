@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px auto;
+}
+
+#um {
+    border-radius: 10px;
+}
+
+#dois {
+    border-radius: 30px;
+}
+
+#tres {
+    border-radius: 50px;
+}
+
+#quatro {
+    border-radius: 100px;
+}

@@ -1,0 +1,76 @@
+body {
+    background-color: limegreen;
+}
+
+div {
+    width: 50%;
+    height: 300px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+#vermelhoitalia {
+    width: 33.3%;
+    height: 100%;
+    background-color: red;
+    float: left;
+}
+
+#brancoitalia {
+    width: 33.3%;
+    height: 100%;
+    background-color: white;
+    float: left;
+}
+
+#verdeitalia {
+    width: 33.4%;
+    height: 100%;
+    background-color: green;
+    float: left;
+}
+
+#pretoalemanha {
+    width: 100%;
+    height: 33.3%;
+    background-color: black;
+    margin-bottom: 0px;
+}
+
+#vermelhoalemanha {
+    width: 100%;
+    height: 33.3%;
+    background-color: red;
+    margin-bottom: 0px;
+}
+
+#amareloalemanha {
+    width: 100%;
+    height: 33.3%;
+    background-color: orange;
+    margin-bottom: 0px;
+}
+
+#brancofilipinas {
+    height: 0;
+    width: 0;
+    border-top: solid 150px blue;
+    border-right: solid 0px gray;
+    border-bottom: solid 150px red;
+    border-left: solid 200px white;
+    float: left;
+}
+
+#azulfilipinas {
+    height: 50%;
+    width: 100%;
+    background-color: blue;
+    margin-bottom: 0px;
+}
+
+#vermelhofilipinas {
+    height: 50%;
+    width: 100%;
+    background-color: red;
+}

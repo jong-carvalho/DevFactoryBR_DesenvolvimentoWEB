@@ -1,0 +1,49 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px auto;
+}
+
+#um {
+    border: solid 10px black;
+}
+
+#dois {
+    border: dotted 10px red;
+}
+
+#tres {
+    border: dashed 10px orange;
+}
+
+#quatro {
+    border: double 10px blue;
+}
+
+#cinco {
+    border: groove 20px pink;
+}
+
+#seis {
+    border: ridge 20px pink;
+}
+
+#sete {
+    border: inset 20px chocolate;
+}
+
+#oito {
+    border: outset 20px chocolate;
+}
+
+#nove {
+    border-top: double 10px red;
+    border-bottom: double 10px red;
+    border-right: dashed 20px orange;
+    border-left: dotted 30px green;
+}

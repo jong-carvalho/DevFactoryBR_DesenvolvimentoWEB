@@ -1,0 +1,11 @@
+body {
+    background-color: coral;
+}
+
+div {
+    /* estilização das divs do body */
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px auto;
+}

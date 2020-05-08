@@ -1,0 +1,17 @@
+body {
+    background-color: darkorchid;
+}
+
+.iguais {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px auto;
+}
+
+#diferente {
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    margin: 20px auto;
+}
